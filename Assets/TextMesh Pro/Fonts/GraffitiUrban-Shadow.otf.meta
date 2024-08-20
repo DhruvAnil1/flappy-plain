@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9509f1763e4879f40bacab2b7deb9934
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Graffiti Urban
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c1e34ec323d4aa643b36a48b4da79f11, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
